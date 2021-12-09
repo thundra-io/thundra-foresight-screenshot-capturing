@@ -1,0 +1,1 @@
+# thundra-foresight-screenshot-capturing
