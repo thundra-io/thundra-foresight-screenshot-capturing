@@ -69,7 +69,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -102,3 +102,44 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+ Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.impl
+*.iml
+
+.idea
+
+nbproject/private/
+build/
+.gradle/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+appLogs/
+
+.mvn/
+target
+
+# Serverless files
+.serverless
+
+# DS Store files
+*.DS_Store
+
+personal/
+out/
