@@ -1,3 +1,5 @@
+# Capturing your screenshots with Foresight in Action
+
 ![ X](https://blog.thundra.io/hubfs/ken-yeung-VnSjwrAy1PQ-unsplash.png)
 
 Intro
