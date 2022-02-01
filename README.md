@@ -56,9 +56,9 @@ Do you see those two YAML rows at the bottom, they are your **unique**(and priva
 
 Do not worry if you had already clicked the “Continue” button and are redirected to the main page with your newly created project. You can always check those values when you go into the settings page by hovering the project name and clicking the settings button.
 
-![Screen Shot 2021-12-15 at 14.37.56](https://github.com/serkankorkut/public-assets/blob/master/foresigt_1.png)
+![Screen Shot 2021-12-15 at 14.37.56](https://github.com/thundra-io/thundra-foresight-screenshot-capturing/blob/master/public-assets/foresight_1.png)
 
-![image (5)](https://github.com/serkankorkut/public-assets/blob/master/foresight_2.png)
+![image (5)](https://github.com/thundra-io/thundra-foresight-screenshot-capturing/blob/master/public-assets/foresight_2.png)
 
 ### 3) Fork our sample repo
 
